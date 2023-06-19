@@ -1,6 +1,6 @@
 {
-  "name": "strapi-tiptap-editor",
-  "version": "0.9.12",
+  "name": "@luochuanyuewu/strapi-tiptap-editor",
+  "version": "0.9.13",
   "description": "A drop-in replacement for the strapi editor",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dasmikko/strapi-tiptap-editor.git"
+    "url": "git+https://github.com/luochuanyuewu/strapi-tiptap-editor.git"
   },
   "keywords": [
     "strapi",
@@ -23,9 +23,9 @@
   "author": "dasmikko",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/dasmikko/strapi-tiptap-editor/issues"
+    "url": "https://github.com/luochuanyuewu/strapi-tiptap-editor/issues"
   },
-  "homepage": "https://github.com/dasmikko/strapi-tiptap-editor#readme",
+  "homepage": "https://github.com/luochuanyuewu/strapi-tiptap-editor#readme",
   "dependencies": {
     "@types/react": "^17.0.53",
     "@types/react-dom": "^17.0.18",
